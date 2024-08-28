@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { Button } from "./ui/moving-border";
-import { Spotlight } from "./ui/Spotlight";
+import { Spotlight } from "./ui/spotlight";
 
 const HeroSection = () => {
   return (
